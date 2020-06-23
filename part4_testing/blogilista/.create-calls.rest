@@ -1,0 +1,15 @@
+POST http://localhost:3003/api/blogs 
+content-type: application/json
+
+{
+	"title": "Galapagos-saarien kusipää",
+	"author": "Jumal Velho",
+	"url": "www.galapagos-tarinat.com",
+	"likes": "666"
+}
+
+###
+
+GET http://localhost:3003/api/blogs
+
+###
