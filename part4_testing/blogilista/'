@@ -1,0 +1,4 @@
+
+> blogilista@1.0.0 test C:\Users\Allu\FullStack_2020\part4_testing\blogilista
+> cross-env NODE_ENV=test jest --verbose --runInBand "-t" "'="
+
