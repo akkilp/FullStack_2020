@@ -1,4 +1,3 @@
-"# FullStack_2020" 
+FullStack 2020
 
-
-https://infinite-basin-98640.herokuapp.com/
+https://fullstackopen.com/en/
